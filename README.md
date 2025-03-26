@@ -85,7 +85,7 @@ Here is a description of the file structure:
 
 ## Additional Pages (Pages Folder)
 
-The **pages** folder contains a file `page_1.py`, which can be used for additional content or visualizations. The pages feature is part of Streamlit’s multi-page functionality, which allows for easier navigation between different parts of the application. 
+The **pages** folder contains a file `correlation.py`, which can be used for additional content or visualizations. The pages feature is part of Streamlit’s multi-page functionality, which allows for easier navigation between different parts of the application. 
 
 If you want to add more pages, simply create new Python files in this folder and Streamlit will automatically detect them.
 
