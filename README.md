@@ -52,3 +52,8 @@ To get started with this project on your local machine:
 1. Clone the repository:
    ```bash
    git clone https://github.com/Inoshas/Data-visualization-with-Streamlit.git
+   
+2. Navigate into the project folder
+      ```bash
+cd Data-visualization-with-Streamlit
+
