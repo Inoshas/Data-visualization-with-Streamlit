@@ -1,12 +1,5 @@
 # Fingrid Data Analysis and Visualization
 
-## Live Application
-
-You can access the live version of this project hosted on the CSC server at the following link:
-
-[Live Application](http://195.148.20.175:8501/)
-
-
 ## Project Overview
 
 This project aims to provide interactive data visualizations and analysis of electricity consumption and small-scale production data in Finland. The data is sourced from **Fingrid**, which provides up-to-date electricity data, including both consumption and production from renewable and small-scale energy sources. The project uses **Streamlit** and **Plotly** for visualizing this data, enabling users to explore electricity consumption patterns and small-scale production insights.
