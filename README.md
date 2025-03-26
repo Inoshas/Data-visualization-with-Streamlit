@@ -54,6 +54,33 @@ To get started with this project on your local machine:
    git clone https://github.com/Inoshas/Data-visualization-with-Streamlit.git
    
 2. Navigate into the project folder
-      ```bash
-cd Data-visualization-with-Streamlit
+   ```bash
+   cd Data-visualization-with-Streamlit
+
+3.Run the application
+   ```bash
+   streamlit run app.py
+
+4. Open your browser and go to the local host address displayed to interact with the application.
+
+---
+
+## File Structure
+
+Here is a description of the file structure:
+
+- **Fingrid.py**: Main file where the Streamlit app is defined. It loads data, processes it, and generates visualizations.
+- **data/**: Contains the input data files (Excel) for consumption and small-scale production.
+- **pages/**: Contains extra pages if needed for the project (e.g., further analysis or charts).
+- **README.md**: This file, which provides the documentation for the project.
+
+---
+
+## Additional Pages (Pages Folder)
+
+The **pages** folder contains a file `page_1.py`, which can be used for additional content or visualizations. The pages feature is part of Streamlit’s multi-page functionality, which allows for easier navigation between different parts of the application. 
+
+If you want to add more pages, simply create new Python files in this folder and Streamlit will automatically detect them.
+
+---
 
