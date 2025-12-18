@@ -70,7 +70,6 @@ To get started with this project on your local machine:
 Here is a description of the file structure:
 
 - **Fingrid.py**: Main file where the Streamlit app is defined. It loads data, processes it, and generates visualizations.
-- **data/**: Contains the input data files (Excel) for consumption and small-scale production.
 - **pages/**: Contains extra pages if needed for the project (e.g., further analysis or charts).
 - **README.md**: This file, which provides the documentation for the project.
 
